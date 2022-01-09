@@ -18,6 +18,7 @@ contenedorLight.addEventListener('click', (e)=>{
         imagenesLight.classList.toggle('showImage')
         hamburguer1.style.opacity = '1'
         card.style.opacity = '1'
+        card.style.display ="flex"
     }
 })
 
@@ -27,5 +28,6 @@ const apareceImagen = (imagen)=>{
     imagenesLight.classList.toggle('showImage')
     hamburguer1.style.opacity = '0'
     card.style.opacity = '0'
+    card.style.display ="none"
 
 }

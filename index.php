@@ -56,10 +56,10 @@
               <div class="contenedor-galeria">
                   <img src="img/avisur.png" alt="" class="img-galeria">
                   <img src="img/principal.png" alt="" class="img-galeria">
-                  <img src="img/tres.jpg" alt="" class="img-galeria">
-                  <img src="img/cuatro.jpg" alt="" class="img-galeria">
-                  <img src="img/cinco.jpg" alt="" class="img-galeria">
-                  <img src="img/seis.jpg" alt="" class="img-galeria">
+                  <img src="img/pagina-principal.png" alt="" class="img-galeria">
+                  <img src="img/base.png" alt="" class="img-galeria">
+                  <img src="img/ventas.png" alt="" class="img-galeria">
+                  <img src="img/java.png" alt="" class="img-galeria">
                 </div>
             </div>
       </section>
@@ -77,9 +77,9 @@
           </header>
 
           <section class="section-card">
-            <h2>Avisur</h2>
+            <h2>Tienda Online</h2>
             <h3>JAVA</h3>
-            <p>Avisur es una apliccion web creada con html,css,js y java.
+            <p>Tienda Online es una apliccion web creada con html,css,js y java.
             <p>Funciona como aplicacion para crear usuarios, productos, proveedores y seccion de ventas,
               permite realizar todo el proceso de registro de productos hasta el punto de generar la fatura de venta.
             </p>
@@ -107,38 +107,36 @@
             <h3>Diseño web</h3>
             <p>Pagina de presentacion a rasgos generales de mi perfil lavoral.
               <ul class="ull">
-                <li><a href="#" class="fab fa-facebook-square"></a></li>
-                <li><a href="#" class="fab fa-twitter-square"></a></li>
-                <li><a href="#" class="fab fa-linkedin"></a></li>
-                <li><a href="#" class="fab fa-youtube-square"></a></li>
+                <li><a href="https://github.com/murgaratone/Presentacion-web.git" target="_blank" class="fab fa-github"></a></li>
+                <li><a href="https://www.linkedin.com/in/oscar-morales-3189b9221" target="_blank" class="fab fa-linkedin"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCqwTuVPcuX5cJT02E-8i59Q" target="_blank" class="fab fa-youtube-square"></a></li>
               </ul>
             </p>
           </section>
           <footer class="tarjeta-footer">
-            <p>coded ashgsdfsdf</p>
+            <p>HTML, CSS, JS.</p>
           </footer>
         </section>
         
 
         <section class="card">
           <header class="heading">
-            <img src="img/cinco.jpg" alt="" class="img-galeria">
+            <img src="img/pagina-principal.png" alt="" class="img-galeria">
           </header>
 
           <section class="section-card">
-            <h2>oscarmorales</h2>
-            <h3>clarajos</h3>
-            <p>Lorem ipsum dolor sit amet consectetur.
+            <h2>Pagina Web Principal</h2>
+            <h3>Diseño Web</h3>
+            <p>Pagina completa a forma de portafolia en la que encontras los proyectos en los que he trabajado.
               <ul class="ull">
-                <li><a href="#" class="fab fa-facebook-square"></a></li>
-                <li><a href="#" class="fab fa-twitter-square"></a></li>
-                <li><a href="#" class="fab fa-linkedin"></a></li>
-                <li><a href="#" class="fab fa-youtube-square"></a></li>
+                <li><a href="https://github.com/murgaratone/Pagina-web-principal.git" target="_blank" class="fab fa-github"></a></li>
+                <li><a href="https://www.linkedin.com/in/oscar-morales-3189b9221" target="_blank" class="fab fa-linkedin"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCqwTuVPcuX5cJT02E-8i59Q" target="_blank" class="fab fa-youtube-square"></a></li>
               </ul>
             </p>
           </section>
           <footer class="tarjeta-footer">
-            <p>coded ashgsdfsdf</p>
+            <p>HTML, CSS, JS.</p>
           </footer>
         </section>
 
@@ -150,15 +148,15 @@
           <section class="experts">
               <div class="cont-expert">
                   <img src="img/pie_chart.svg" alt="">
-                  <h2 class="n-expert">Analitics</h2>
+                  <h2 class="n-expert">Bases de Datos</h2>
               </div>
               <div class="cont-expert">
                   <img src="img/search_engine.svg" alt="">
-                  <h2 class="n-expert">SEO</h2>
+                  <h2 class="n-expert">Paginas Web</h2>
               </div>
               <div class="cont-expert">
                   <img src="img/security.svg" alt="">
-                  <h2 class="n-expert">Security</h2>
+                  <h2 class="n-expert">Aplicaciones Web</h2>
               </div>
           </section>
       </section>

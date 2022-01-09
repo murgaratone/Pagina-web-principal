@@ -87,7 +87,7 @@ header{
 
 .copy{
     font-weight: 300;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 /* nuestro servicio */
@@ -296,6 +296,9 @@ footer{
 }
 
 @media screen and (max-width:800px){
+    .copy{
+        font-size: 30px;
+    }
 
     .card{
         width: 100%;

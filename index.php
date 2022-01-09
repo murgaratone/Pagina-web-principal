@@ -105,7 +105,7 @@
           <section class="section-card">
             <h2>Mi Perfil</h2>
             <h3>Diseño web</h3>
-            <p>Pagina de presentacion a rasgos generales de mi perfil lavoral.
+            <p>Pagina de presentacion a rasgos generales de mi perfil laboral.
               <br>
               <a href="https://perfil-web.herokuapp.com" target="_blank">Visit la pagina</a>
               <ul class="ull">
